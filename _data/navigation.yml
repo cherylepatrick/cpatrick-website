@@ -10,6 +10,8 @@
     url: "/research/supernemo/"
   - title: "MINERvA"
     url: "/research/minerva/"
+  - title: "Publications"
+    url: "/research/publications/"
 
 - title: Presentations
   url: "/presentations/"
