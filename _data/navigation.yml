@@ -1,6 +1,13 @@
-- title: Start
+- title: Home
   url: "/"
   side: left
+
+- title: CV
+  url: "/cv/"
+  side: left
+  dropdown:
+  - title: Education
+    url: "/cv/cv_education/"
 
 - title: Getting Started
   url: "/getting-started/"

@@ -3,7 +3,7 @@ layout: page
 title: "Get in touch"
 meta_title: "Send me a message."
 header:
-  image_fullwidth: "hawaiiMe.jpg"
+  image_fullwidth: "valCenis.jpg"
 teaser: ""
 permalink: "/contact/"
 ---
