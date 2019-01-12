@@ -1,7 +1,7 @@
 - name: GitHub
   url: http://github.com/cherylepatrick
   class: icon-github
-  title: "Where physics happens"
+  title: "Cheryl on GitHub"
 
 - name: YouTube
   url: http://www.youtube.com/cherylepatrick
@@ -11,7 +11,12 @@
 - name: Twitter
   url: http://twitter.com/CherylEliza
   class: icon-twitter
-  title: "Hear me shout garbage into a void on Twitter"
+  title: "Cheryl on Twitter"
+
+- name: LinkedIn
+  url: https://www.linkedin.com/in/cheryl-patrick-5a390487/
+  class: icon-linkedin
+  title: "Cheryl on LinkedIn"
 
 
 # - name: Facebook

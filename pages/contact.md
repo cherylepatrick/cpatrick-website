@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Contact"
+title: "Get in touch"
 meta_title: "Send me a message."
-subheadline: "Wufoo-powered contact forms"
+header:
+  image_fullwidth: "hawaiiMe.jpg"
 teaser: ""
 permalink: "/contact/"
 ---
