@@ -14,7 +14,6 @@
     url: "/research/publications/"
 
 - title: Presentations
-  url: "/presentations/"
   side: left
   dropdown:
   - title: "Conference Presentations"
