@@ -23,6 +23,8 @@
     url: "/presentations/posters/"
   - title: "Seminars"
     url: "/presentations/seminars/"
+  - title: "Workshops"
+    url: "/presentations/workshops/"
 
 - title: Outreach
   url: "/outreach/"
