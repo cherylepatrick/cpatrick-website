@@ -3,7 +3,7 @@ layout: page
 title: "MINERvA"
 subheadline: "Studying neutrinos and nuclei"
 teaser: "By studying what happens when antineutrinos bombard heavy nuclei, I helped the community to understand nuclear structure, and how the universe treats matter and antimatter differently."
-permalink: "/research/thesis"
+permalink: "/research/minerva"
 header:
     image_fullwidth: "header_drop.jpg"
 ---
