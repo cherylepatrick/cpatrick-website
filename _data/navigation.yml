@@ -12,6 +12,8 @@
     url: "/research/minerva/"
   - title: "Publications"
     url: "/research/publications/"
+  - title: "Thesis"
+    url: "/research/thesis/"
 
 - title: Presentations
   side: left
