@@ -2,7 +2,7 @@
 layout: page
 title: "Cheryl's PhD Thesis"
 subheadline: "Northwestern University, 2010-2016"
-teaser: "By studying what happens when antineutrinos bombard heavy nuclei, I helped the community to understand nuclear structure, and how the universe treats matter and antimatter differently."
+teaser: "By studying what happens when antineutrinos bombard heavy nuclei, I helped the community to understand nuclear structure, and how the universe might treat matter and antimatter differently."
 permalink: "/research/thesis"
 header: no
 image:
