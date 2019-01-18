@@ -43,10 +43,6 @@
   url: "/cv/"
   side: left
 
-- title: "Search"
-  url: "/search/"
-  side: right
-
 - title: "Contact"
   url: "/contact/"
   side: right
