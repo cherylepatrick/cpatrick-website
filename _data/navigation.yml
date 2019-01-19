@@ -33,6 +33,9 @@
 - title: Songs and poems
   url: "/songs/"
   side: left
+  dropdown:
+  - title: "Standard Model Song"
+    url: "/songs/std-model/"
 
 - title: CV
   url: "/cv/"
