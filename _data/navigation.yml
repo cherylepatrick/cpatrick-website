@@ -40,6 +40,8 @@
     url: "/songs/supernemo-the-musical/"
   - title: "A visit from SuperNEMO"
     url: "/songs/supernemo-the-poem/"
+  - title: "A Valentine for Two Quarks"
+    url: "/songs/valentine/"
 
 - title: CV
   url: "/cv/"
