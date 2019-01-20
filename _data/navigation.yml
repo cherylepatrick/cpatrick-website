@@ -31,7 +31,6 @@
   side: left
 
 - title: Songs and poems
-  url: "/songs/"
   side: left
   dropdown:
   - title: "Standard Model Song"
