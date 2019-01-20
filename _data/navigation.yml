@@ -36,6 +36,10 @@
   dropdown:
   - title: "Standard Model Song"
     url: "/songs/std-model/"
+  - title: "SuperNEMO - the Musical"
+    url: "/songs/supernemo-the-musical/"
+  - title: "A visit from SuperNEMO"
+    url: "/songs/supernemo-the-poem/"
 
 - title: CV
   url: "/cv/"
