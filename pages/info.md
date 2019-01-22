@@ -27,7 +27,7 @@ header:
 
 <div class="medium-6 columns t30">
 <img src="/images/bailey.jpg" alt="Bailey the cat">
-<em>Bailey helps me practice my seminars</em>
+<em>Bailey helps me practise my seminars</em>
 <br/>
 <img src="/images/rombles.jpg" alt="Rombles the cat">
 <em>Rombles has better things to do</em>
