@@ -1,61 +1,36 @@
 ---
 layout: page
-title: "About"
-subheadline: "Why another Jekyll Theme?"
-teaser: "Since years I am programming and designing websites. I love to work with open source tools and learn via code from others. This time I want to try to give something back..."
+sidebar: right
+title: "Cheryl Patrick, PhD"
+show_meta: false
+subheadline: "Full-time physicist and part-time rhymer"
+teaser: ""
 permalink: "/info/"
 header:
-    image_fullwidth: "header_drop.jpg"
+  image_fullwidth: "waterfallMe.JPG"
 ---
-...and learn at the same time.
+<div class="row">
+<div class="medium-6 columns t30">
+<img src="/images/smashParticles.jpeg" alt="Smash particles and patriarchy!">
+</div>
+<div class="medium-6 columns t30">
+<p>A former professional software developer from Europe, I moved to the USA to work on a PhD in high-energy particle physics. After six years in Chicago working on <a href="http://fnal.gov" _target="blank">Fermilab's</a> <a href="https://minerva.fnal.gov" _target="blank">MINERvA</a> neutrino-scattering experiment, I'm now at <a href="https://www.hep.ucl.ac.uk" _target="blank">UCL</a> in London, where I am currently Analysis Coordinator of the <a href="http://supernemo.org" _target="blank">SuperNEMO</a> neutrinoless double-beta decay experiment.
+</p>
+<p>For many years, I've enjoyed writing comic poetry, so it seemed natural to combine my two interests and branch out into science-themed poetry and songs. I've had a great time performing my songs, and would love the opportunity to do more. Give me a call if you're interested in something, because I'm always looking for inspiration!</p>
+</div>
+</div>
+<div class="row">
+<div class="medium-6 columns t30">
+<p>When I'm not doing physics or writing poems, I enjoy travelling, getting out in the Kent countryside, cooking, and playing with my two adorable but naughty cats. I once folded 1000 origami cranes in physics seminars.</p>
+<p>I am including cat pictures, because I know that's why you're really here.</p>
+</div>
 
-*Feeling Responsive* is my first theme which I let into the world. It's built on work and knowledge of others. While I am still designing it, you read about whats behind this theme in the – *hopefully* – near future.
+<div class="medium-6 columns t30">
+<img src="/images/bailey.jpg" alt="Bailey the cat">
+<em>Bailey helps me practice my seminars</em>
+<br/>
+<img src="/images/rombles.jpg" alt="Rombles the cat">
+<em>Rombles has better things to do</em>
+</div>
 
-
-## Features
-
-* [Responsive Gallery][8], [Videos][9], [Grid][10], [Typography][11],...
-* 100% GitHub Pages friendly
-* Easy editable navigation, footer and social media links
-* Language Ready – just translate one file.
-* Lots of possibilities to customize it to your needs
-* Lots of different headers
-* Various post formats to let your content shine
-* Uses Jekyll 3.0
-* Multiple possibilities to use images in different ways
-* Fine typography
-* Play Video and Audio with [Mediaelement.js][12]
-
-
-
-## I got inspired by...
-
-[Michael Rose][1] and his fabulous [themes for jekyll][2]. Authors of [A List Apart][4] and [Smashing Magazine][5] since 2002. [GitHub][6] and how they built such a habitat for cooperation worldwide. [Automattic][3] and how they built a fantastic community around WordPress. And many, many more...
-
-Please make *Feeling Responsive* yours and if you like it, please link back to my homebase <a href="http://phlow.de/">Phlow</a>. That would be awesome.
-
-#### Since then, fork it!
-
-Yours sincerelly, [Moritz »mo.« Sauer][7]
-
-
- [1]: http://mademistakes.com/about/
- [2]: http://mademistakes.com/work/jekyll-themes/
- [3]: http://automattic.com/
- [4]: http://alistapart.com/
- [5]: http://www.smashingmagazine.com/
- [6]: https://github.com/
- [7]: http://sauer.io
- [8]: {{ site.url }}/design/gallery/
- [9]: {{ site.url }}/design/video/
- [10]: {{ site.url }}/design/grid/
- [11]: {{ site.url }}/design/typography/
- [12]: {{ site.url }}/design/mediaelement_js/
- [13]: #
- [14]: #
- [15]: #
- [16]: #
- [17]: #
- [18]: #
- [19]: #
- [20]: #
+</div>

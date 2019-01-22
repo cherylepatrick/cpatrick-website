@@ -16,7 +16,7 @@ slogan: "Particle physicist and part-time poet"
 
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: "Particle physicist Cheryl Patrick loves neutrinos. She  works at UCL in London on the SuperNEMO double-beta decay experiment. She writes science comedy songs and poems."
+description: "Particle physicist Cheryl Patrick loves neutrinos. She  works at UCL in London on the SuperNEMO double-beta decay experiment. She writes comedy science songs and poems."
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Theme created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
