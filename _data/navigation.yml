@@ -6,13 +6,13 @@
   side: left
   dropdown:
   - title: "SuperNEMO"
-    url: "/research/supernemo/"
+    url: "/research/supernemo"
   - title: "MINERvA"
-    url: "/research/minerva/"
+    url: "/research/minerva"
   - title: "Publications"
     url: "/research/publications/"
   - title: "Thesis"
-    url: "/research/thesis/"
+    url: "/research/thesis"
 
 - title: Presentations
   side: left
@@ -40,7 +40,9 @@
   - title: "A visit from SuperNEMO"
     url: "/songs/supernemo-the-poem/"
   - title: "A Valentine for Two Quarks"
-    url: "/songs/valentine/"
+    url: "/songs/valentine"
+  - title: "News In Verse"
+    url: "/songs/newsinverse"
 
 - title: CV
   url: "/cv/"
