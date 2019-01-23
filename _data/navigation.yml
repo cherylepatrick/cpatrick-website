@@ -41,6 +41,8 @@
     url: "/songs/supernemo-the-poem/"
   - title: "A Valentine for Two Quarks"
     url: "/songs/valentine"
+  - title: "News In Verse"
+    url: "http://newsinverse.com"
 
 - title: CV
   url: "/cv/"
