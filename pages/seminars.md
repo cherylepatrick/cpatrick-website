@@ -12,7 +12,7 @@ One of the best parts of being a physicist is meeting fellow researchers from ar
 
 {% for talk in sorted_talks %}
 <div class="row" markdown="1">
-<div class="small-2 columns"><img src="{{talk.image}}"></div>
+<div class="small-2 columns"><img src="../..{{talk.image}}"></div>
 <div class="small-10 columns">
 {% if talk.slides %}<a href="{{ talk.slides }}" target="_blank">{% endif %}  <strong>{{ talk.title }}</strong>{% if talk.slides %}</a>{% endif %} , presented  at <a href="{{talk.url}}" target="_blank">{{talk.conference}}</a>{% if talk.location %}, {{talk.location}}{% endif %} on {{ talk.date | date_to_long_string }}
 </div>

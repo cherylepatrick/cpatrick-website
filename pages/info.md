@@ -11,7 +11,7 @@ header:
 ---
 <div class="row">
 <div class="medium-6 columns t30">
-<img src="/images/smashParticles.jpeg" alt="Smash particles and patriarchy!">
+<img src="../images/smashParticles.jpeg" alt="Smash particles and patriarchy!">
 </div>
 <div class="medium-6 columns t30">
 <p>A former professional software developer from Europe, I moved to the USA to work on a PhD in high-energy particle physics. After six years in Chicago working on <a href="http://fnal.gov" _target="blank">Fermilab's</a> <a href="https://minerva.fnal.gov" _target="blank">MINERvA</a> neutrino-scattering experiment, I'm now at <a href="https://www.hep.ucl.ac.uk" _target="blank">UCL</a> in London, where I am currently Analysis Coordinator of the <a href="http://supernemo.org" _target="blank">SuperNEMO</a> neutrinoless double-beta decay experiment.
@@ -26,10 +26,10 @@ header:
 </div>
 
 <div class="medium-6 columns t30">
-<img src="/images/bailey.jpg" alt="Bailey the cat">
+<img src="../images/bailey.jpg" alt="Bailey the cat">
 <em>Bailey helps me practise my seminars</em>
 <br/>
-<img src="/images/rombles.jpg" alt="Rombles the cat">
+<img src="../images/rombles.jpg" alt="Rombles the cat">
 <em>Rombles has better things to do</em>
 </div>
 
