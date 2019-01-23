@@ -14,7 +14,7 @@ A common feature at physics conferences is the poster session, which give studen
 <div class="row" markdown="1">
 <div class="small-4 columns"><img src="../..{{talk.image}}"></div>
 <div class="small-8 columns">
-<a href="{{ talk.slides }}" target="_blank"> <strong>{{ talk.title }}</strong></a>, presented {% if talk.with%} (with  {{talk.with}}){% endif %}  at <a href="{{talk.url}}" target="_blank">{{talk.conference}}</a>{% if talk.location %}, {{talk.location}}{% endif %}, {{ talk.date | date_to_long_string }}
+<a href="{{ talk.slides }}" target="_blank"> <strong>{{ talk.title }}</strong></a>, presented {% if talk.with%} (with  {{talk.with}}){% endif %}  at <a href="{{talk.exturl}}" target="_blank">{{talk.conference}}</a>{% if talk.location %}, {{talk.location}}{% endif %}, {{ talk.date | date_to_long_string }}
 {% if talk.proceedings %}  (<a href="{{talk.proceedings}}" target="_blank">Proceedings</a>) {% endif %}
 </div>
 </div>
