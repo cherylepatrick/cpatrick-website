@@ -44,6 +44,10 @@
   - title: "News In Verse"
     url: "/songs/newsinverse"
 
+- title: Deliciousness
+  side: left
+  url: "/recipes/"
+
 - title: CV
   url: "/cv/"
   side: left
