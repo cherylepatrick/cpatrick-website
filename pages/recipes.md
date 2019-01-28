@@ -18,7 +18,7 @@ teaser: "A girl's got to eat, and I choose to eat deliciously."
 
 <p>{{ recipe.excerpt }}</p>
 
-<p><a class="button" href="{{ post.url }}">Read more</a></p>
+<p><a class="button" href="{{ recipe.url }}">Read more</a></p>
 <hr/>
 </div>
 {% endfor %}
