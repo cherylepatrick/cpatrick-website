@@ -1,6 +1,7 @@
 ---
 date: 2019-01-28
 title: Orange, currant and polenta pancakes
+layout: recipe
 categories:
 - recipes
 featured_image: orangepancakes.jpg
