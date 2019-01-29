@@ -7,8 +7,6 @@ format: recipe
 	<div class="medium-8 columns{% if page.sidebar == NULL %} medium-offset-2 end{% endif %}{% if page.sidebar == "left" %} medium-push-4{% endif %}">
 		<article itemscope itemtype="http://schema.org/Article">
 			<header>
-
-
 				<div itemprop="name">
 					{% if page.subheadline %}<p class="subheadline">{{ page.subheadline }}</p>{% endif %}
 					<h1>{{ page.title }}</h1>
@@ -16,18 +14,25 @@ format: recipe
 			</header>
       <img src="../../images/recipes/{{ page.featured_image }}"/>
 
-			{% if page.teaser %}
 			<p class="teaser" itemprop="description">
-				{{ page.teaser }}
+				{{ content }}
 			</p>
-			{% endif %}
-      {{page.cook}} {{page.prep}}
-      {{page.ingredients_markdown}}
-      {{page.directions_markdown}}
-			<div itemprop="articleSection">
-			{{ content }}
-			</div>
 
+      <div>
+        <ul id="recipe" class="recipe-overview">
+          <li title="Servings"><span>{{ page.recipe.servings }}</span></li>
+          <li title="Prep Time"><span>{{ page.recipe.prep }}</span></li>
+          <li title="Cook Time"><span>{{ page.recipe.cook }}</span></li>
+        </ul>
+      </div>
+      <div>
+        {{page.recipe.ingredients_markdown | markdownify }}
+      </div>
+
+      <div>
+        {{page.recipe.directions_markdown | markdownify }}
+      </div>
+      
 			{% if page.show_meta == true %}
 			{% include _meta_information.html %}
 			{% endif %}
