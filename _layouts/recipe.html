@@ -18,13 +18,18 @@ format: recipe
 				{{ content }}
 			</p>
 
-      <div>
-        <ul id="recipe" class="recipe-overview">
-          <li title="Servings"><span>{{ page.recipe.servings }}</span></li>
-          <li title="Prep Time"><span>{{ page.recipe.prep }}</span></li>
-          <li title="Cook Time"><span>{{ page.recipe.cook }}</span></li>
-        </ul>
+      <div class="row">
+        <div class="small-4 columns">
+        {% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.servings }}</span>
+        </div>
+        <div class="small-4 columns">
+        {% include recipe-icon.html icon="time" %}<span>{{ page.recipe.prep }}
+          </div>
+        <div class="small-4 columns">
+        {% include recipe-icon.html icon="cook" %}<span>{{ page.recipe.cook }}</span>
+        </div>
       </div>
+      
       <div>
         {{page.recipe.ingredients_markdown | markdownify }}
       </div>
