@@ -18,6 +18,11 @@
   class: icon-linkedin
   title: "Cheryl on LinkedIn"
 
+- name: ORCID
+  url: https://orcid.org/0000-0002-0713-7515
+  class: icon-orcid
+  title: "Cheryl's ORCID iD'"
+
 
 # - name: Facebook
 #   url: http://www.facebook.com/
