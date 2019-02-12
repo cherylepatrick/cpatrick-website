@@ -410,6 +410,7 @@ mark {
 .icon-message:before,
 .icon-mic:before,
 .icon-network:before,
+.icon-orcid:before,
 .icon-paper-plane:before,
 .icon-pinterest:before,
 .icon-price-tag:before,
@@ -479,6 +480,7 @@ font-smoothing: antialiased;
 .icon-message:before { content: "\f11f"; }
 .icon-mic:before { content: "\f120"; }
 .icon-network:before { content: "\f121"; }
+.icon-orcid:before  {  content: "iD";}
 .icon-paper-plane:before { content: "\f122"; }
 .icon-pinterest:before { content: "\f123"; }
 .icon-price-tag:before { content: "\f124"; }
