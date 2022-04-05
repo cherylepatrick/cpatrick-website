@@ -6,4 +6,4 @@ header:
    image_fullwidth: "hawaiiMe.jpg"
 permalink: "/cv/"
 ---
-Download my <a  target="_blank" href="http://www.hep.ucl.ac.uk/~cpatrick/files/CPatrick_CV.pdf">CV</a> in PDF format.
+Download my <a  target="_blank" href="https://www2.ph.ed.ac.uk/~cpatrick/files/CPatrickEdinburghCV.pdf">CV</a> in PDF format.
