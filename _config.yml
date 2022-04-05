@@ -28,7 +28,7 @@ author: cheryl
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'http://www.hep.ucl.ac.uk'
+url: 'https://www2.ph.ed.ac.uk'
 baseurl: '/~cpatrick'
 
 # This is for the editing function in _/includes/improve_content
@@ -41,7 +41,7 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'http://www.hep.ucl.ac.uk/~cpatrick/images/'
+urlimg: 'https://www2.ph.ed.ac.uk/~cpatrick/images/'
 
 
 # Logo size is 600x80 pixels
