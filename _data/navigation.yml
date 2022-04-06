@@ -6,13 +6,13 @@
   side: left
   dropdown:
   - title: "SuperNEMO"
-    url: "/research/supernemo"
+    url: "/research/supernemo.html"
   - title: "MINERvA"
-    url: "/research/minerva"
+    url: "/research/minerva.html"
   - title: "Publications"
     url: "/research/publications/"
   - title: "Thesis"
-    url: "/research/thesis"
+    url: "/research/thesis.html"
 
 - title: Presentations
   side: left
