@@ -3,7 +3,7 @@ layout: page
 title: "MINERvA"
 subheadline: "Studying neutrinos and nuclei"
 teaser: "Using a super-intense beam of neutrinos - which are all around us, but pass unseen through almost all matter - MINERvA is able to study what happens when these elusive particles finally do interact."
-permalink: "/research/minerva"
+permalink: "/research/minerva.html"
 header:
     image_fullwidth: "minerva.jpg"
     caption: Image credit - Fermilab
@@ -26,7 +26,7 @@ Knowing the neutrino-nucleus scattering cross section is also vital for neutrino
 
  [1]: http://minerva.fnal.gov
  [2]: http://fnal.gov
- [3]: {{ site.url }}/research/thesis/
+ [3]: {{ site.url }}/research/thesis.html
  [4]: https://link.aps.org/doi/10.1103/PhysRevD.97.052002
  [5]: https://www-numi.fnal.gov
  [6]: https://novaexperiment.fnal.gov
